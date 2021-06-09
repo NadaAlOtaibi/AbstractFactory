@@ -9,8 +9,8 @@ namespace ITaplets
         {
             Console.WriteLine("Testing client code with Lenovo factory");
             CMethod(new Lenovo());
-            Console.WriteLine();
 
+            Console.WriteLine();
             Console.WriteLine("Testing client code with Apple factory");
             CMethod(new Apple());
         }
